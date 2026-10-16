@@ -37,3 +37,9 @@ The features of the Metro Ticket Generating System will be described based on th
 7. Conclusion
 
 The Metro Ticket Generating System demonstrates a digital approach to metro ticket generation. This repository provides access to the project files and demonstration materials for review and further development.
+
+Project Demonstration
+
+Watch the Metro Ticket Generating System demo video:
+
+https://drive.google.com/file/d/1fjtniSUjCaww4yXzRK2fdlsXvDOvFrUz/view?usp=sharing
