@@ -1,24 +1,39 @@
 Metro Ticket Generating System
 
-Project Description
+1. Project Overview
 
-The Metro Ticket Generating System is a software project designed to simplify the process of generating metro tickets.
+The Metro Ticket Generating System is a software project designed to demonstrate the process of metro ticket generation through a digital system.
 
-Project Files
+This repository contains the project files, supporting documentation, and project demonstration video.
 
-- Project files are available in the uploaded ZIP file.
-- Demo video: SN_Project Demonstration.mp4
+2. Project Objectives
 
-Project Objectives
+- To demonstrate the metro ticket generation process.
+- To organize project files in a structured repository.
+- To provide project materials for review and further development.
+- To demonstrate the project workflow through a video presentation.
 
-- Simplify metro ticket generation.
-- Provide a convenient ticket generation process.
-- Demonstrate the project workflow through a demo video.
+3. Project Contents
 
-Project Demo
+- Source Code and Project Files: Project folders and files uploaded to this repository.
+- Project Documentation: Supporting documents, where available.
+- Demonstration Video: "SN_Project Demonstration.mp4"
+- README: Project overview and repository information.
 
-The demonstration video is uploaded to this GitHub repository.
+4. Project Demonstration
 
-How to Access the Project
+The demonstration video illustrates the project workflow and its implemented functionality.
 
-Download the ZIP file from this repository and extract it to access the project files.
+To view the demonstration, open "SN_Project Demonstration.mp4" in this repository.
+
+5. Technologies Used
+
+The programming languages, frameworks, database, and tools used will be documented according to the actual project implementation.
+
+6. Key Features
+
+The features of the Metro Ticket Generating System will be described based on the functionality implemented in the project.
+
+7. Conclusion
+
+The Metro Ticket Generating System demonstrates a digital approach to metro ticket generation. This repository provides access to the project files and demonstration materials for review and further development.
